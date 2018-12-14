@@ -1,0 +1,6 @@
+share : [
+  "uuf250-066.bench"
+  "uuf250-066.cnf" {"src/uuf250-066.cnf"}
+  "uuf250-068.bench"
+  "uuf250-068.cnf" {"src/uuf250-068.cnf"}
+]

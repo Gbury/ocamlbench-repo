@@ -1,0 +1,4 @@
+((name uuf250-066)
+ (descr "msat on uuf250-066.cnf")
+ (cmd (%{bin}%/msat -s sat %{msat-bench:share}%/src/uuf250-066.cnf))
+ (speed Slow))
