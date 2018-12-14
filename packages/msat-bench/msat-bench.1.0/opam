@@ -5,7 +5,7 @@ version: "1.0"
 maintainer: "Guillaume Bury <guillaume.bury@ocamlpro.com>"
 depends: [
   "ocaml"
-  "msat" { >= "0.6" }
+  "msat" { >= "0.7" }
 ]
 substs: [
   "uuf250-066.bench"
